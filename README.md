@@ -16,7 +16,7 @@ The News App is a simple web application developed using HTML, CSS, and JavaScri
 ### Running the Application Locally
 1. Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/news-app.git
+   git clone https://github.com/adisaxena15/JS-NewsApp.git
    ```
 2. Navigate to the project directory
    ```bash
